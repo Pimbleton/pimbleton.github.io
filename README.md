@@ -1,4 +1,5 @@
 <html>
+    <!-- Aider commit-->
 <head>
     <title>Stick Figure Fighting Game</title>
     <style>
